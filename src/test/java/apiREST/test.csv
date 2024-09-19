@@ -1,0 +1,5 @@
+NombreCaso,name,Vname,job,Vjob
+name vacio,name,,job,QA
+name nulo,name,null,job,QA
+name 3 letras,name,sol,job,QA
+sin campo name,,,job,QA
